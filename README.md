@@ -1,4 +1,8 @@
-# Project Hope 🕊️
+# APIKEY
+Change the 'APIKEY' in main.dart into your own Gemini API Key, Example: 
+const APIKEY = 'MYAPIKEY'; // Add your API KEY Here
+
+# projecthope
 
 Project Hope is a Flutter-based mental health companion app that integrates Google's Gemini AI to provide a friendly, non-judgmental chat experience. It features a modern UI designed to provide a calming environment for users seeking support.
 
